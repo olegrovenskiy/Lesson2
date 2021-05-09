@@ -1,0 +1,3 @@
+# do not trac any .txt files
+
+*.txt
