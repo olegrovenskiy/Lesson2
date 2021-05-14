@@ -259,6 +259,7 @@ Branch 'fix' set up to track remote branch 'fix' from 'origin'.
 
 ---------------
 
+task 4 визуальный редактор
 
 
 
